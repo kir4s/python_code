@@ -4,4 +4,4 @@ if km <= 200:
     print('Sua viagem custará R${} .'.format(a))
 else:
     a = km * 0.45
-    print('Sua viagem custará R${} .'.format(a))
+    print('Sua viagem custará R${} ..'.format(a))
