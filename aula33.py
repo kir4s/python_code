@@ -7,7 +7,7 @@ if b < a and b < c:
     menor = b 
 if c < a and c < b:
     menor = c
-#verificando o maior 
+#verificando o maior.
 maior = a 
 if b > a and b > c:
     maior = b
